@@ -20,7 +20,7 @@ const CourseCard = ({ course }: CourseCardProps) => {
     : 0;
 
   return (
-    <div className="course-card">
+    <div className="course-card group">
       {/* Course Image */}
       <div className="relative">
         <img

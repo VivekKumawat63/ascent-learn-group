@@ -147,7 +147,7 @@
 
   /* Course Card Variant */
   .course-card {
-    @apply group relative overflow-hidden rounded-xl bg-card shadow-md transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
+    @apply relative overflow-hidden rounded-xl bg-card shadow-md transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
   }
 
   /* Feature Card Variant */
